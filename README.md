@@ -33,4 +33,6 @@ This folder contains code examples for the following design patterns:
 8. Keys
 
 ## Usage
-You can use the code examples in this repository as needed in your React projects. The code is organized into folders according to the specific best practice or design pattern being demonstrated. Simply navigate to the appropriate folder and use the code as needed in your own project. Be sure to read the article for more detailed explanations and best practices for each topic.
+You can use the code examples in this repository as needed in your React projects. Simply navigate to the appropriate folder and use the code as needed in your own project. 
+
+Be sure to read the article for more detailed explanations and best practices for each topic.
