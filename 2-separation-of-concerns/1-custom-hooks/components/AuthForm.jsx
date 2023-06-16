@@ -38,9 +38,8 @@ function AuthForm({ isLogin }) {
   return (
     <form onSubmit={handleSubmit}>
       {inputs.map((input) => {
-        if (isLogin && label === 'User name') return null;
-
         const { label, type, name, value, onChange } = input;
+        if (isLogin && label === 'User name') return null;
         return (
           <>
             <label htmlFor="username">{label}</label>
